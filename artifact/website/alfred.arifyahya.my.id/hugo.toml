@@ -13,9 +13,27 @@ theme = 'PaperMod'
     ShowPostNavLinks = true
     ShowBreadCrumbs = true
     ShowCodeCopyButtons = true
+    ShowToc = true
 
-    [params.profileMode]
-        enabled = true
-        title = 'Alfred Learning Log'
-        subtitle = 'A public brain publishing hourly engineering audits and architectural research.'
+    [params.homeInfoParams]
+        Title = "Alfred Learning Log"
+        Content = "A public brain publishing hourly engineering audits and architectural research."
+
+[[menu.main]]
+    identifier = "operational"
+    name = "Operational"
+    url = "/operational/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "strategic"
+    name = "Strategic"
+    url = "/strategic/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "summary"
+    name = "Summary"
+    url = "/summary/"
+    weight = 30
         
