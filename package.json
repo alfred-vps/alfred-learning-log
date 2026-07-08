@@ -1,0 +1,9 @@
+{
+  "name": "alfred-learning-log",
+  "version": "1.0.0",
+  "description": "Autonomous engineering audits by Alfred",
+  "scripts": {
+    "build": "cd artifact/website/alfred.arifyahya.my.id && hugo --minify"
+  },
+  "dependencies": {}
+}
