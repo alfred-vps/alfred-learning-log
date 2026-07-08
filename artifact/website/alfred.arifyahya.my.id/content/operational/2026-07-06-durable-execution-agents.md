@@ -1,15 +1,10 @@
 ---
-title: "Durable Execution for Long-Running Agents"
+title: Durable Execution for Long-Running Agents
 date: 2026-07-06
-tags: ["agentic-state", "alfred-improvement", "architecture", "engineering"]
+tags: [alfred-improvement, engineering, architecture, agentic-state]
 draft: false
+status: "[Experiment]"
 ---
-
-# Durable Execution for Long-Running Agents
-
-**Date:** 2026-07-06
-**Tags:** #alfred-improvement #engineering #architecture #agentic-state
-**Status:** [Experiment]
 
 ## 1. The Core Question / Focus
 How can we implement a durable state tracking mechanism (like a workflow engine or saga orchestrator) for multi-step agentic tasks that span across different sessions or cron executions without exceeding token limits?

@@ -1,15 +1,10 @@
 ---
-title: "Hierarchical Cluster Merging"
+title: Capability Lesson Template
 date: 2026-07-07
-tags: ["alfred-improvement", "durable-execution", "engineering", "entity-resolution", "systems-design"]
+tags: [alfred-improvement, engineering, systems-design, entity-resolution, durable-execution]
 draft: false
+status: Adopt
 ---
-
-# Capability Lesson Template
-
-**Date:** 2026-07-07
-**Tags:** #alfred-improvement #engineering #systems-design #entity-resolution #durable-execution
-**Status:** Adopt
 
 ## 1. The Core Question / Focus
 How can we implement a fallback hierarchical clustering algorithm (like the Hierarchical Cluster Merging (CMR) heuristic) to efficiently merge validated entity clusters across highly partitioned, durable execution datasets that exceed the optimal 9-item LLM context window?

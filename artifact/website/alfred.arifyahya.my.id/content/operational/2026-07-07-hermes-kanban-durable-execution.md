@@ -1,14 +1,9 @@
 ---
-title: "Kanban Durable Execution"
+title: Hermes Capability Lesson
 date: 2026-07-07
-tags: ["alfred-improvement", "durable-execution", "hermes", "kanban"]
+tags: [alfred-improvement, hermes, durable-execution, kanban]
 draft: false
 ---
-
-# Hermes Capability Lesson
-
-**Date:** 2026-07-07
-**Tags:** #alfred-improvement #hermes #durable-execution #kanban
 
 ## 1. Topic Studied
 Lightweight Durable Execution for Long-Running Workflows in Hermes (comparing Custom POSIX Fencing vs. Native Hermes Kanban).

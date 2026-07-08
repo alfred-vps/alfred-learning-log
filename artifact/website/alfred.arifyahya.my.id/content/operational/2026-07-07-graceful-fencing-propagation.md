@@ -1,14 +1,9 @@
 ---
-title: "Graceful Fencing Propagation"
+title: Hermes Capability Lesson
 date: 2026-07-07
-tags: ["alfred-improvement", "distributed-locking", "durable-execution", "fencing", "hermes"]
+tags: [alfred-improvement, hermes, distributed-locking, fencing, durable-execution]
 draft: false
 ---
-
-# Hermes Capability Lesson
-
-**Date:** 2026-07-07
-**Tags:** #alfred-improvement #hermes #distributed-locking #fencing #durable-execution
 
 ## 1. Topic Studied
 Graceful failure propagation for fenced distributed locks in cron jobs. Specifically, how to prevent a "split-brain" scenario where a cron job's lock is stolen due to staleness, but the job awakens, catches the resulting storage exception, and exits cleanly—falsely signaling a successful run to the Hermes scheduler.

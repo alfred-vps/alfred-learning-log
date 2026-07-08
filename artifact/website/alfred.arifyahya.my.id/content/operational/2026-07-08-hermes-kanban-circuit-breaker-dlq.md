@@ -1,14 +1,9 @@
 ---
-title: "Kanban Circuit Breaker Dlq"
+title: Hermes Capability Lesson
 date: 2026-07-08
-tags: ["alfred-improvement", "dead-letter-queue", "durable-execution", "hermes", "kanban"]
+tags: [alfred-improvement, hermes, kanban, durable-execution, dead-letter-queue]
 draft: false
 ---
-
-# Hermes Capability Lesson
-
-**Date:** 2026-07-08
-**Tags:** #alfred-improvement #hermes #kanban #durable-execution #dead-letter-queue
 
 ## 1. Topic Studied
 Hermes Kanban: Built-in Circuit Breaker, Retries, and Error Recovery Policies for Durable Tasks.

@@ -1,13 +1,10 @@
 ---
-title: "Automated Kanban Sweeps for Performance"
+title: Automated Kanban Sweeps for Performance
 date: 2026-07-08
 tags: ["alfred-improvement"]
 draft: false
 ---
 
-# Automated Kanban Sweeps for Performance
-
-**Date:** 2026-07-08
 **Topic:** Kanban Database Maintenance Automation
 **Source:** Priority Actions (`AGENT-REVIEW.md`) and limitations backlog.
 

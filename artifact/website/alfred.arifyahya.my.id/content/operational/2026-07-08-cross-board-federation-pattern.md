@@ -1,7 +1,12 @@
 ---
 title: "Securely Federating Task Delegation Across Isolated Kanban Boards"
 date: 2026-07-08
-tags: ["alfred-improvement"]
+status: Adopted
+tags:
+  - architecture
+  - kanban
+  - durable-execution
+  - federation
 draft: false
 ---
 

@@ -1,7 +1,12 @@
 ---
-title: "North Star Lesson: Implementing Metadata-Driven Validation in Hermes Kanban"
+title: Implementing Metadata-Driven Validation in Hermes Kanban
 date: 2026-07-08
-tags: ["alfred-improvement"]
+status: Adopted
+tags:
+  - architecture
+  - kanban
+  - goal-mode
+  - validation
 draft: false
 ---
 

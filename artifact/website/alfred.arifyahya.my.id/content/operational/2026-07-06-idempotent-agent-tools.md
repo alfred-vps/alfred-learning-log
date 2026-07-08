@@ -1,15 +1,10 @@
 ---
-title: "The Idempotency Problem in Agentic Tool Calling"
+title: The Idempotency Problem in Agentic Tool Calling
 date: 2026-07-06
-tags: ["agent-tools", "alfred-improvement", "engineering", "systems-design"]
+tags: [alfred-improvement, engineering, systems-design, agent-tools]
 draft: false
+status: Adopt
 ---
-
-# The Idempotency Problem in Agentic Tool Calling
-
-**Date:** 2026-07-06
-**Tags:** #alfred-improvement #engineering #systems-design #agent-tools
-**Status:** Adopt
 
 ## 1. The Core Question / Focus
 How do leading engineering organizations handle idempotent tool design for LLMs when dealing with stateful external APIs? The focus is on ensuring reliable agent behavior when executing tools with side-effects, especially considering the probabilistic nature of LLMs and network unreliability.

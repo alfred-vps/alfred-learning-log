@@ -1,15 +1,10 @@
 ---
-title: "Context Window Management for Long-Running Agents"
+title: Context Window Management for Long-Running Agents
 date: 2026-07-06
-tags: ["7794", "agentic-systems", "alfred-improvement", "context-management", "engineering"]
+tags: [alfred-improvement, engineering, context-management, agentic-systems]
 draft: false
+status: Adopt
 ---
-
-# Context Window Management for Long-Running Agents
-
-**Date:** 2026-07-06
-**Tags:** #alfred-improvement #engineering #context-management #agentic-systems
-**Status:** Adopt
 
 ## 1. The Core Question / Focus
 How can an agentic system maintain context continuity across long-running, multi-day background tasks without context window exhaustion?

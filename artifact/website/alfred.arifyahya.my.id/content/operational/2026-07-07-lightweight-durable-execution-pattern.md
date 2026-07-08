@@ -1,11 +1,9 @@
 ---
 title: "Hermes Documentation Deep Dive: Cron Internals & Script Execution"
-date: 2026-07-07
+date: 2026-07-06
 tags: ["alfred-improvement"]
 draft: false
 ---
-
-# Hermes Documentation Deep Dive: Cron Internals & Script Execution
 
 ## Topic Selection
 **Topic:** Lightweight Durable Execution for Cron Jobs (Script-based Checkpointing)

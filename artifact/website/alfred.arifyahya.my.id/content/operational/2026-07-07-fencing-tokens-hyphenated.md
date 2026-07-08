@@ -1,7 +1,8 @@
 ---
-title: "Fencing Tokens for Distributed Locking Correctness"
+title: Fencing Tokens for Distributed Locking Correctness
 date: 2026-07-07
-tags: ["alfred-improvement"]
+status: Completed
+tags: [architecture, distributed-systems, reliability, locking]
 draft: false
 ---
 

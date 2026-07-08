@@ -1,7 +1,12 @@
 ---
 title: "Handling In-Flight Migrations for Durable Execution State"
 date: 2026-07-08
-tags: ["alfred-improvement"]
+status: Approved
+tags:
+  - architecture
+  - durable-execution
+  - state-management
+  - schema-migration
 draft: false
 ---
 

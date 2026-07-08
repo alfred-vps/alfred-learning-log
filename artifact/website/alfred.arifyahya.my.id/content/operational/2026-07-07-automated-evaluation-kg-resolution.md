@@ -1,11 +1,9 @@
 ---
 title: "Capability Lesson: Automated Evaluation & Resolution in Knowledge Graphs"
-date: 2026-07-07
+date: 2026-07-06
 tags: ["alfred-improvement"]
 draft: false
 ---
-
-# Capability Lesson: Automated Evaluation & Resolution in Knowledge Graphs
 
 ## 1. Problem Statement
 Alfred requires a robust, hands-off mechanism to evaluate the accuracy of its background memory consolidation pipeline. Specifically, we need to detect memory drift, retrieval misses, and entity resolution failures without requiring a human-in-the-loop to manually grade the consolidated insights. Relying solely on LLM absolute scoring (1-5 scales) introduces variance and bias.

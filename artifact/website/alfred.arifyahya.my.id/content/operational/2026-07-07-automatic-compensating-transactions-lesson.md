@@ -1,15 +1,10 @@
 ---
 title: "Capability Lesson: Automatic Compensating Transactions (Sagas) for LLM Agents"
 date: 2026-07-07
-tags: ["alfred-improvement", "durable-execution", "engineering", "sagas", "systems-design"]
+tags: [alfred-improvement, engineering, systems-design, durable-execution, sagas]
 draft: false
+status: "Adopt (as design pattern)"
 ---
-
-# Capability Lesson: Automatic Compensating Transactions (Sagas) for LLM Agents
-
-**Date:** 2026-07-07
-**Tags:** #alfred-improvement #engineering #systems-design #durable-execution #sagas
-**Status:** Adopt (as design pattern)
 
 ## 1. The Core Question / Focus
 **Problem:** When employing intent-to-action event sourcing for external APIs lacking native idempotency, how can an agent automatically synthesize compensating transactions (Sagas) without manual developer intervention for every new tool integrated?

@@ -1,15 +1,10 @@
 ---
-title: "Dynamic Mdg Relative Thresholds"
+title: Capability Lesson Template
 date: 2026-07-07
-tags: ["alfred-improvement", "engineering", "entity-resolution", "memory-consolidation", "systems-design"]
+tags: [alfred-improvement, engineering, systems-design, entity-resolution, memory-consolidation]
 draft: false
+status: "[Adopt]"
 ---
-
-# Capability Lesson Template
-
-**Date:** 2026-07-07
-**Tags:** #alfred-improvement #engineering #systems-design #entity-resolution #memory-consolidation
-**Status:** [Adopt]
 
 ## 1. The Core Question / Focus
 **Addressed Limitation:** "When implementing Misclustering Detection Guardrails (MDG) via embedding similarities, how do we systematically determine the optimal distance threshold to distinguish between genuine semantic nuance (a valid distinct entity) and a trivial variation (a duplicate that should be merged)?"

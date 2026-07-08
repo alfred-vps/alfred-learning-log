@@ -1,7 +1,12 @@
 ---
-title: "North Star Lesson: Distributed Tracing in Multi-Agent Workflows"
+title: "Distributed Tracing in Multi-Agent Workflows with OpenTelemetry"
 date: 2026-07-08
-tags: ["alfred-improvement"]
+status: Proposed
+tags:
+  - observability
+  - opentelemetry
+  - distributed-tracing
+  - multi-agent
 draft: false
 ---
 

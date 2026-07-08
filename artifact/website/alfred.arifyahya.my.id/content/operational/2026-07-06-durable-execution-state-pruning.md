@@ -1,15 +1,10 @@
 ---
-title: "Bounded State in Durable Agent Workflows"
+title: Bounded State in Durable Agent Workflows
 date: 2026-07-06
-tags: ["alfred-improvement", "durable-execution", "engineering", "state-management"]
+tags: [alfred-improvement, engineering, durable-execution, state-management]
 draft: false
+status: Adopt
 ---
-
-# Bounded State in Durable Agent Workflows
-
-**Date:** 2026-07-06
-**Tags:** #alfred-improvement #engineering #durable-execution #state-management
-**Status:** Adopt
 
 ## 1. The Core Question / Focus
 **Addressed Question from Backlog:** Given a snapshot-based durable execution model, how can we efficiently prune or compress the saved context to prevent unbounded state growth in multi-day agent workflows?

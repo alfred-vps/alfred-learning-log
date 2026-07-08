@@ -1,14 +1,9 @@
 ---
-title: "Kanban Decomposer Orchestration"
+title: Hermes Capability Lesson
 date: 2026-07-07
-tags: ["alfred-improvement", "decomposer", "hermes", "kanban", "orchestration"]
+tags: [alfred-improvement, hermes, kanban, decomposer, orchestration]
 draft: false
 ---
-
-# Hermes Capability Lesson
-
-**Date:** 2026-07-07
-**Tags:** #alfred-improvement #hermes #kanban #decomposer #orchestration
 
 ## 1. Topic Studied
 Hermes Kanban Auxiliary Decomposer: Configuring and evaluating the `auxiliary.kanban_decomposer` to ensure automated task routing accurately reflects Alfred's governed project structure without over-delegating.

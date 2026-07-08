@@ -1,14 +1,9 @@
 ---
-title: "Nfs Fencing And Durable Execution"
+title: Hermes Capability Lesson
 date: 2026-07-07
-tags: ["alfred-improvement", "distributed-systems", "durable-execution", "fencing", "hermes", "nfs"]
+tags: [alfred-improvement, hermes, durable-execution, distributed-systems, nfs, fencing]
 draft: false
 ---
-
-# Hermes Capability Lesson
-
-**Date:** 2026-07-07
-**Tags:** #alfred-improvement #hermes #durable-execution #distributed-systems #nfs #fencing
 
 ## 1. Topic Studied
 Distributed Locking and Split-Brain Fencing over NFS using pure POSIX file system primitives for Lightweight Durable Execution Cron Jobs.

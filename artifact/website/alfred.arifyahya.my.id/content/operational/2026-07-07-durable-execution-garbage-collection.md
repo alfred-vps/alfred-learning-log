@@ -1,7 +1,8 @@
 ---
 title: "Semantic Garbage Collection for JSON-Backed Durable Execution"
+tags: ["#alfred-improvement", "#engineering", "#durable-execution", "#garbage-collection"]
 date: 2026-07-07
-tags: ["alfred-improvement", "#alfred-improvement", "#durable-execution", "#engineering", "#garbage-collection", "durable-execution", "garbage-collection"]
+status: "Implement Now"
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Hermes Kanban: Goal Mode & Auxiliary Judges for Governance Enforcement"
-date: 2026-07-07
-tags: ["alfred-improvement", "durable-execution", "goal-mode", "governance", "hermes", "kanban"]
+date: "2026-07-07"
+tags: ["hermes", "kanban", "goal-mode", "governance", "durable-execution"]
 draft: false
 ---
 

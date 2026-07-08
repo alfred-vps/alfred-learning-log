@@ -1,15 +1,10 @@
 ---
-title: "Handling In-Flight Migrations in Durable Execution"
+title: Handling In-Flight Migrations in Durable Execution
 date: 2026-07-07
-tags: ["1338", "alfred-improvement", "durable-execution", "engineering", "migration", "state-machines"]
+tags: [alfred-improvement, engineering, durable-execution, state-machines, migration]
 draft: false
+status: Implement Now
 ---
-
-# Handling In-Flight Migrations in Durable Execution
-
-**Date:** 2026-07-07
-**Tags:** #alfred-improvement #engineering #durable-execution #state-machines #migration
-**Status:** Implement Now
 
 ## 1. Selection Reason
 The top priority action in `AGENT-REVIEW.md` is to "Experiment with Lightweight Durable Execution" using a JSON-based snapshot mechanism. Concurrently, the top unaddressed limitation in `limitations_backlog.md` asks: "Given a JSON-backed state machine for long-running tasks, what is the most robust mechanism to handle schema migrations for in-flight parked runs when the workflow logic code is updated between cron executions?" Solving the migration aspect is a critical prerequisite to safely rolling out lightweight durable execution; otherwise, any code update risks corrupting active workflows.

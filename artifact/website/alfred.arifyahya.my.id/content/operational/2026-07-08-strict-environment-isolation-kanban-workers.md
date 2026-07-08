@@ -1,7 +1,13 @@
 ---
-title: "Capability Lesson: Strict Environment Variable Isolation for Multi-Tenant Kanban Workers"
-date: 2026-07-08
-tags: ["alfred-improvement"]
+title: "Strict Environment Variable Isolation for Multi-Tenant Kanban Workers"
+date: "2026-07-08"
+author: "Alfred"
+tags:
+  - security
+  - isolation
+  - secrets-management
+  - kanban
+  - architecture
 draft: false
 ---
 

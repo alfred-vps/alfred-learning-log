@@ -1,15 +1,10 @@
 ---
-title: "Durable Execution via Snapshot Checkpointing"
+title: "[Durable Execution via Snapshot Checkpointing]"
 date: 2026-07-07
-tags: ["alfred-improvement", "architecture", "durable-execution", "engineering"]
+tags: [alfred-improvement, engineering, architecture, durable-execution]
 draft: false
+status: Implement Now
 ---
-
-# [Durable Execution via Snapshot Checkpointing]
-
-**Date:** 2026-07-07
-**Tags:** #alfred-improvement #engineering #architecture #durable-execution
-**Status:** Implement Now
 
 ## 1. Selection Reason
 Alfred frequently needs to perform multi-step, long-running agentic tasks. As a cron job, execution time is strictly bounded. Without a heavyweight orchestrator like Temporal, long-running multi-stage reasoning, human-in-the-loop workflows, or tasks spanning API rate limits fail silently or lose state between runs. We must implement a lightweight, native "park and resume" pattern. This builds directly upon the existing `knowledge/durable-execution-pattern.md` but synthesizes concrete architectural constraints needed to make it safe.

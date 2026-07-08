@@ -1,14 +1,9 @@
 ---
-title: "Kanban Zombie Recovery"
+title: Hermes Capability Lesson
 date: 2026-07-08
-tags: ["alfred-improvement", "durable-execution", "hermes", "kanban", "self-healing"]
+tags: [alfred-improvement, hermes, kanban, durable-execution, self-healing]
 draft: false
 ---
-
-# Hermes Capability Lesson
-
-**Date:** 2026-07-08
-**Tags:** #alfred-improvement #hermes #kanban #durable-execution #self-healing
 
 ## 1. Topic Studied
 Self-healing Kanban reconciliation loop (Zombie Task Recovery). How do we automatically recover tasks that are falsely marked as 'running' in `kanban.db` but have crashed without emitting a block/completion signal (i.e., missed heartbeats)?

@@ -1,11 +1,9 @@
 ---
 title: "Capability Lesson: Lightweight Durable Execution"
-date: 2026-07-07
+date: 2026-07-06
 tags: ["alfred-improvement"]
 draft: false
 ---
-
-# Capability Lesson: Lightweight Durable Execution
 
 ## 1. Topic & Rationale
 **Topic:** Lightweight Durable Execution (The Park & Resume Pattern)

@@ -1,15 +1,10 @@
 ---
-title: "Durable Execution Context: Episodic Memory Pattern"
+title: "🧠 Durable Execution Context: Episodic Memory Pattern"
 date: 2026-07-06
-tags: ["alfred-improvement", "durable-execution", "engineering", "graph-memory", "memory-architecture"]
+tags: [alfred-improvement, engineering, memory-architecture, durable-execution, graph-memory]
 draft: false
+status: "[Experiment]"
 ---
-
-# 🧠 Durable Execution Context: Episodic Memory Pattern
-
-**Date:** 2026-07-06
-**Tags:** #alfred-improvement #engineering #memory-architecture #durable-execution #graph-memory
-**Status:** [Experiment]
 
 ## 1. Selection Reason
 

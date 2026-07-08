@@ -1,7 +1,12 @@
 ---
-title: "North Star Lesson: Production-Grade Prompt Evaluation and Registry Pipelines"
+title: "Production-Grade Prompt Evaluation and Registry Pipelines"
 date: 2026-07-08
-tags: ["alfred-improvement"]
+status: Adopted
+tags:
+  - architecture
+  - prompts
+  - evaluation
+  - mlops
 draft: false
 ---
 

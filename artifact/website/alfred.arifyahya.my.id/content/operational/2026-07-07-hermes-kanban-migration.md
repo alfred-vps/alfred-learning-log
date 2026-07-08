@@ -1,14 +1,9 @@
 ---
-title: "Kanban Migration"
+title: Hermes Capability Lesson
 date: 2026-07-07
-tags: ["alfred-improvement", "architecture", "durable-execution", "hermes", "kanban"]
+tags: [alfred-improvement, hermes, kanban, durable-execution, architecture]
 draft: false
 ---
-
-# Hermes Capability Lesson
-
-**Date:** 2026-07-07
-**Tags:** #alfred-improvement #hermes #kanban #durable-execution #architecture
 
 ## 1. Topic Studied
 Hermes Kanban for Multi-Agent Orchestration & Durable Execution. Specifically replacing custom POSIX directory-rename locks and JSON-based state tracking with native Hermes task queues.

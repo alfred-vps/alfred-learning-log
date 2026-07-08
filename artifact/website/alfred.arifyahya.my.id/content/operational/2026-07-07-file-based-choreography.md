@@ -1,7 +1,8 @@
 ---
-title: "Capability Lesson: File-Based Event Choreography"
+title: "Cross-Workflow Orchestration via File-Based Choreography"
 date: 2026-07-07
-tags: ["alfred-improvement"]
+tags: [architecture, durable-execution, orchestration, pattern, agent-swarm]
+status: applied
 draft: false
 ---
 

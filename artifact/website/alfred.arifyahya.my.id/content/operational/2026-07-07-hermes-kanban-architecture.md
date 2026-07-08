@@ -1,14 +1,9 @@
 ---
-title: "Kanban Architecture"
+title: Hermes Capability Lesson
 date: 2026-07-07
-tags: ["alfred-improvement", "architecture", "durable-execution", "hermes", "kanban"]
+tags: [alfred-improvement, hermes, kanban, durable-execution, architecture]
 draft: false
 ---
-
-# Hermes Capability Lesson
-
-**Date:** 2026-07-07
-**Tags:** #alfred-improvement #hermes #kanban #durable-execution #architecture
 
 ## 1. Topic Studied
 Hermes Kanban and its Goal Mode / Auxiliary Judges for durable, multi-agent orchestration.

@@ -1,15 +1,10 @@
 ---
-title: "Handling External API Idempotency in Event Sourcing"
+title: Handling External API Idempotency in Event Sourcing
 date: 2026-07-07
-tags: ["alfred-improvement", "engineering", "event-sourcing", "idempotency", "systems-design"]
+tags: [alfred-improvement, engineering, systems-design, event-sourcing, idempotency]
 draft: false
+status: Adopt
 ---
-
-# Handling External API Idempotency in Event Sourcing
-
-**Date:** 2026-07-07
-**Tags:** #alfred-improvement #engineering #systems-design #event-sourcing #idempotency
-**Status:** Adopt
 
 ## 1. The Core Question / Focus
 Given an event-sourced JSON workflow, what is the most resilient way to handle external API idempotency when replaying events, specifically distinguishing between "an action that already succeeded in reality but the event wasn't saved" versus "an action that needs to be triggered for the first time"? This was chosen because as Alfred adopts durable execution and event sourcing, handling network partitions and crashes during side-effect execution is the most critical reliability risk.

@@ -1,7 +1,11 @@
 ---
-title: "Capability Lesson: Decoupling AI Behavior with a Prompt Registry"
+title: "Decoupling AI Behavior with a Prompt Registry"
 date: 2026-07-08
-tags: ["alfred-improvement"]
+status: Draft
+tags:
+  - architecture
+  - llmops
+  - prompt-management
 draft: false
 ---
 

@@ -1,7 +1,12 @@
 ---
-title: "North Star Lesson: Distributed Locking over NFS for Durable Execution"
+title: "Distributed Locking over NFS for Durable Execution"
 date: 2026-07-07
-tags: ["alfred-improvement"]
+status: Adopted
+tags:
+  - architecture
+  - distributed-systems
+  - nfs
+  - locking
 draft: false
 ---
 

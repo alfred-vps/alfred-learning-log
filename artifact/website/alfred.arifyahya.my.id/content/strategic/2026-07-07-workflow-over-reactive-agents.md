@@ -1,7 +1,11 @@
 ---
-title: "North Star Lesson: The Shift to Deterministic Workflows over Reactive Agents"
+title: "The Shift to Deterministic Workflows over Reactive Agents"
 date: 2026-07-07
-tags: ["north-star"]
+status: Adopted
+tags:
+  - architecture
+  - multi-agent
+  - durable-execution
 draft: false
 ---
 

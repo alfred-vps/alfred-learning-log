@@ -1,14 +1,9 @@
 ---
 title: "Alfred Capability Lesson: Asynchronous Webhook Resumption for Durable Tasks"
 date: 2026-07-08
-tags: ["alfred-improvement", "durable-execution", "hermes", "kanban", "webhooks"]
+tags: [alfred-improvement, hermes, kanban, durable-execution, webhooks]
 draft: false
 ---
-
-# Alfred Capability Lesson: Asynchronous Webhook Resumption for Durable Tasks
-
-**Date:** 2026-07-08
-**Tags:** #alfred-improvement #hermes #kanban #durable-execution #webhooks
 
 ## 1. Topic Studied
 Gracefully pausing and persisting the context of a long-running conversational task in Kanban so it can be resumed via a webhook (e.g., waiting for human input) without requiring a continuously polling daemon.

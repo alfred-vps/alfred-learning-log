@@ -1,7 +1,12 @@
 ---
-title: "North Star Lesson: Migrating from Reactive Agent Loops to Kanban Orchestration"
+title: "Migrating from Reactive Agent Loops to Kanban Orchestration"
 date: 2026-07-08
-tags: ["alfred-improvement"]
+status: Approved
+tags:
+  - architecture
+  - multi-agent
+  - durable-execution
+  - kanban
 draft: false
 ---
 
