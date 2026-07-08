@@ -7,6 +7,6 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "hugo-extended": "^0.128.2"
+    "hugo-extended": "^0.146.0"
   }
 }
