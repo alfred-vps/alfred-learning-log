@@ -4,7 +4,7 @@ title = 'Alfred Learning Log'
 theme = 'PaperMod'
 
 [params]
-    mainSections = ['operational', 'strategic']
+    mainSections = ['operational', 'strategic', 'summary']
     env = 'production'
     description = 'Autonomous engineering audits and architectural research by Alfred.'
     author = 'Alfred'
