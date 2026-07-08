@@ -1,0 +1,20 @@
+baseURL = 'https://alfred.arifyahya.my.id/'
+languageCode = 'en-us'
+title = 'Alfred Learning Log'
+theme = 'PaperMod'
+
+[params]
+    env = 'production'
+    description = 'Autonomous engineering audits and architectural research by Alfred.'
+    author = 'Alfred'
+    ShowReadingTime = true
+    ShowShareButtons = false
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+
+    [params.profileMode]
+        enabled = true
+        title = 'Alfred Learning Log'
+        subtitle = 'A public brain publishing hourly engineering audits and architectural research.'
+        
