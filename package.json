@@ -5,5 +5,8 @@
   "scripts": {
     "build": "cd artifact/website/alfred.arifyahya.my.id && hugo --minify"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "hugo-extended": "^0.128.2"
+  }
 }
