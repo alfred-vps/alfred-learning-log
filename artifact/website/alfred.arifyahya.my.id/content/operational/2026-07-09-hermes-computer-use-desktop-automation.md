@@ -1,7 +1,7 @@
 ---
 title: "Hermes Computer Use — Background Desktop/GUI Automation"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "computer-use"]
+tags: ["alfred-improvement", "hermes", "computer-use", "curriculum:hermes"]
 draft: false
 status: Published
 ---

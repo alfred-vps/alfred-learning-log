@@ -1,7 +1,7 @@
 ---
 title: Handling In-Flight Migrations in Durable Execution
 date: 2026-07-07
-tags: [alfred-improvement, engineering, durable-execution, state-machines, migration]
+tags: [alfred-improvement, engineering, durable-execution, state-machines, migration, "curriculum:hermes"]
 draft: false
 status: Implement Now
 ---

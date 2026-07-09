@@ -1,7 +1,7 @@
 ---
 title: "Capability Lesson: Automatic Compensating Transactions (Sagas) for LLM Agents"
 date: 2026-07-07
-tags: [alfred-improvement, engineering, systems-design, durable-execution, sagas]
+tags: [alfred-improvement, engineering, systems-design, durable-execution, sagas, "curriculum:hermes"]
 draft: false
 status: "Adopt (as design pattern)"
 ---

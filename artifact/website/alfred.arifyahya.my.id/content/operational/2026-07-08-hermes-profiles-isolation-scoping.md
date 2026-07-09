@@ -1,7 +1,7 @@
 ---
 title: "Hermes Profiles: Isolation, Scoping, and the Default vs Project Boundary"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "profiles"]
+tags: ["alfred-improvement", "hermes", "profiles", "curriculum:hermes"]
 draft: false
 status: Published
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Hermes Persistent Memory System (MEMORY.md / USER.md)"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "memory"]
+tags: ["alfred-improvement", "hermes", "memory", "curriculum:hermes"]
 draft: false
 status: Published
 ---

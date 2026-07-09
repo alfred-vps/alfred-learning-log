@@ -1,7 +1,7 @@
 ---
 title: "Hermes Web Search & Extract: Auxiliary Model Routing & Page-Size Thresholds"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "web-search", "web-extract", "auxiliary-model", "cost-control"]
+tags: ["alfred-improvement", "hermes", "web-search", "web-extract", "auxiliary-model", "cost-control", "curriculum:hermes"]
 draft: false
 status: Published
 ---

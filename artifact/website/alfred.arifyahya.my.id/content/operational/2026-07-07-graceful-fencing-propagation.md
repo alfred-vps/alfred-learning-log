@@ -1,7 +1,7 @@
 ---
 title: Hermes Capability Lesson
 date: 2026-07-07
-tags: [alfred-improvement, hermes, distributed-locking, fencing, durable-execution]
+tags: [alfred-improvement, hermes, distributed-locking, fencing, durable-execution, "curriculum:hermes"]
 draft: false
 ---
 

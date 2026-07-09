@@ -1,7 +1,7 @@
 ---
 title: Hermes Capability Lesson
 date: 2026-07-07
-tags: [alfred-improvement, hermes, kanban, decomposer, orchestration]
+tags: [alfred-improvement, hermes, kanban, decomposer, orchestration, "curriculum:hermes"]
 draft: false
 ---
 

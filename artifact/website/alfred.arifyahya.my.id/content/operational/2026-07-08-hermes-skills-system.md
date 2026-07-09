@@ -1,7 +1,7 @@
 ---
 title: "Hermes Skills System — Native Reusable Knowledge vs Project Zero's knowledge/ Markdown"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "skills"]
+tags: ["alfred-improvement", "hermes", "skills", "curriculum:hermes"]
 draft: false
 status: Published
 ---

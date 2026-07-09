@@ -1,7 +1,7 @@
 ---
 title: "Capability Lesson: Automated Evaluation & Resolution in Knowledge Graphs"
 date: 2026-07-06
-tags: ["alfred-improvement"]
+tags: ["alfred-improvement", "curriculum:hermes"]
 draft: false
 ---
 

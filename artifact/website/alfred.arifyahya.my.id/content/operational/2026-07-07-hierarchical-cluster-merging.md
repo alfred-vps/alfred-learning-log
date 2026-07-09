@@ -1,7 +1,7 @@
 ---
 title: Capability Lesson Template
 date: 2026-07-07
-tags: [alfred-improvement, engineering, systems-design, entity-resolution, durable-execution]
+tags: [alfred-improvement, engineering, systems-design, entity-resolution, durable-execution, "curriculum:hermes"]
 draft: false
 status: Adopt
 ---

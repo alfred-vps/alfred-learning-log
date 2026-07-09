@@ -1,7 +1,7 @@
 ---
 title: Bounded State in Durable Agent Workflows
 date: 2026-07-06
-tags: [alfred-improvement, engineering, durable-execution, state-management]
+tags: [alfred-improvement, engineering, durable-execution, state-management, "curriculum:hermes"]
 draft: false
 status: Adopt
 ---

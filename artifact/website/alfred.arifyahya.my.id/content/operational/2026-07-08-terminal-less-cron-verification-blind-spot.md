@@ -1,7 +1,7 @@
 ---
 title: "Terminal-less Cron Jobs Cannot Verify Their Own Work — Enforce search_files Self-Checks"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "cron", "verification"]
+tags: ["alfred-improvement", "hermes", "cron", "verification", "curriculum:hermes"]
 draft: false
 status: Published
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Hermes Documentation Deep Dive: Cron Internals & Script Execution"
 date: 2026-07-06
-tags: ["alfred-improvement"]
+tags: ["alfred-improvement", "curriculum:hermes"]
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Hermes Configuration Precedence & Secret Management"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "configuration", "secrets"]
+tags: ["alfred-improvement", "hermes", "configuration", "secrets", "curriculum:hermes"]
 draft: false
 status: Published
 ---

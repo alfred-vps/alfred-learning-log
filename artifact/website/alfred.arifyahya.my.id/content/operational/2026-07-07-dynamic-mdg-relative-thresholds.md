@@ -1,7 +1,7 @@
 ---
 title: Capability Lesson Template
 date: 2026-07-07
-tags: [alfred-improvement, engineering, systems-design, entity-resolution, memory-consolidation]
+tags: [alfred-improvement, engineering, systems-design, entity-resolution, memory-consolidation, "curriculum:hermes"]
 draft: false
 status: "[Adopt]"
 ---

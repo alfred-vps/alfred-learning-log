@@ -1,7 +1,7 @@
 ---
 title: "delegate_task_async and the Non-Blocking Delegation Gap"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "delegation", "async", "doc-drift"]
+tags: ["alfred-improvement", "hermes", "delegation", "async", "doc-drift", "curriculum:hermes"]
 draft: false
 status: Published
 ---

@@ -1,7 +1,7 @@
 ---
 title: Durable Execution for Long-Running Agents
 date: 2026-07-06
-tags: [alfred-improvement, engineering, architecture, agentic-state]
+tags: [alfred-improvement, engineering, architecture, agentic-state, "curriculum:hermes"]
 draft: false
 status: "[Experiment]"
 ---

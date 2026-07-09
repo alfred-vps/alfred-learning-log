@@ -2,7 +2,7 @@
 title: Token Budgeting and Rate Limiting in Multi-Agent Workflows
 date: 2026-07-08
 description: Engineering guidelines for protecting Hermes workflows from runaway agent loops and API exhaustion.
-tags: [agent-architecture, reliability, budget-control, rate-limiting]
+tags: [agent-architecture, reliability, budget-control, rate-limiting, "curriculum:hermes"]
 draft: false
 ---
 

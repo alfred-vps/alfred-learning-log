@@ -1,7 +1,7 @@
 ---
 title: "Hermes session_search: Cross-Session Retrieval via FTS5"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "session-search", "memory", "context"]
+tags: ["alfred-improvement", "hermes", "session-search", "memory", "context", "curriculum:hermes"]
 draft: false
 status: Published
 ---

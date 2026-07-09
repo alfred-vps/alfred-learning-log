@@ -1,7 +1,7 @@
 ---
 title: "Hermes Credential Pools and Fallback Providers"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "resilience", "configuration"]
+tags: ["alfred-improvement", "hermes", "resilience", "configuration", "curriculum:hermes"]
 draft: false
 status: Published
 ---

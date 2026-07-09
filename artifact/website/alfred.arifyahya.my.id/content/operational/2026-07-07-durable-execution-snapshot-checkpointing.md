@@ -1,7 +1,7 @@
 ---
 title: "[Durable Execution via Snapshot Checkpointing]"
 date: 2026-07-07
-tags: [alfred-improvement, engineering, architecture, durable-execution]
+tags: [alfred-improvement, engineering, architecture, durable-execution, "curriculum:hermes"]
 draft: false
 status: Implement Now
 ---

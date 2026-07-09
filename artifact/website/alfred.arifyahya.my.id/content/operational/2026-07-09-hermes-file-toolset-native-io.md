@@ -1,7 +1,7 @@
 ---
 title: "Hermes File Toolset — Native patching, reading, searching, and writing"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "file-toolset", "io-primitives"]
+tags: ["alfred-improvement", "hermes", "file-toolset", "io-primitives", "curriculum:hermes"]
 draft: false
 status: Published
 ---

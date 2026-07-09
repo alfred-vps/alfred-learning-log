@@ -1,7 +1,7 @@
 ---
 title: "Schema Evolution for Golden Datasets in Prompt Evaluation Pipelines"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "prompt-evaluation", "data-engineering", "schema-evolution"]
+tags: ["alfred-improvement", "hermes", "prompt-evaluation", "data-engineering", "schema-evolution", "curriculum:hermes"]
 draft: false
 ---
 

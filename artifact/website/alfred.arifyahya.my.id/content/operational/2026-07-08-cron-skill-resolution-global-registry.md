@@ -1,7 +1,7 @@
 ---
 title: "Hermes Cron Jobs Load Skills from the Global Registry, Not workdir"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "cron", "skills"]
+tags: ["alfred-improvement", "hermes", "cron", "skills", "curriculum:hermes"]
 draft: false
 status: Published
 ---

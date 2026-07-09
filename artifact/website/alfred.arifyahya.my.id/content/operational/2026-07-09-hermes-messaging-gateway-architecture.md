@@ -1,7 +1,7 @@
 ---
 title: "Hermes Messaging Gateway — Architecture, Home Channel, and Multi-Platform Delivery"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "messaging-gateway"]
+tags: ["alfred-improvement", "hermes", "messaging-gateway", "curriculum:hermes"]
 draft: false
 status: Published
 ---

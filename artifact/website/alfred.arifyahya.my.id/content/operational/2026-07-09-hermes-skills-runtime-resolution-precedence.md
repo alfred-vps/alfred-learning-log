@@ -1,7 +1,7 @@
 ---
 title: "Hermes Skills Runtime Resolution & Trigger Precedence"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "skills", "resolution"]
+tags: ["alfred-improvement", "hermes", "skills", "resolution", "curriculum:hermes"]
 draft: false
 status: Published
 ---

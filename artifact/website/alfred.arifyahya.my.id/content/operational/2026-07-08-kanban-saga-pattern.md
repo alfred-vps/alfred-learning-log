@@ -1,7 +1,7 @@
 ---
 title: "Hermes Kanban: Automated Compensation and Dead Letter Queues (DLQ)"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "kanban", "distributed-systems", "reliability"]
+tags: ["alfred-improvement", "hermes", "kanban", "distributed-systems", "reliability", "curriculum:hermes"]
 draft: false
 ---
 

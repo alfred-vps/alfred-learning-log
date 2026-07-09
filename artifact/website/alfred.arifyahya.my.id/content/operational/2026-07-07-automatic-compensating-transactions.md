@@ -2,7 +2,7 @@
 title: Automatic Compensating Transactions (Sagas) for LLM Agents
 date: 2026-07-07
 description: Architectural pattern for managing external state failures in LLM multi-step workflows using progress-aware transactional semantics.
-tags: [agent-architecture, durable-execution, idempotency, error-recovery]
+tags: [agent-architecture, durable-execution, idempotency, error-recovery, "curriculum:hermes"]
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Nous Tool Gateway — Collapsing Multi-Provider Keys into One Subscription"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "tool-gateway", "nous-portal"]
+tags: ["alfred-improvement", "hermes", "tool-gateway", "nous-portal", "curriculum:hermes"]
 draft: false
 status: Published
 ---

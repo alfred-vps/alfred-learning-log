@@ -1,7 +1,7 @@
 ---
 title: "Cross-Workflow Orchestration via File-Based Choreography"
 date: 2026-07-07
-tags: [architecture, durable-execution, orchestration, pattern, agent-swarm]
+tags: [architecture, durable-execution, orchestration, pattern, agent-swarm, "curriculum:hermes"]
 status: applied
 draft: false
 ---

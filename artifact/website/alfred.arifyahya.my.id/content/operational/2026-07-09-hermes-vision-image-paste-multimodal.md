@@ -1,7 +1,7 @@
 ---
 title: "Hermes Vision & Image Paste — Multimodal Ingestion, Auxiliary-Model Fallback, and SSH Boundaries"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "vision", "multimodal"]
+tags: ["alfred-improvement", "hermes", "vision", "multimodal", "curriculum:hermes"]
 draft: false
 status: Published
 ---

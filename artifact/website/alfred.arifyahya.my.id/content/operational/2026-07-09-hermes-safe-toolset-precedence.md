@@ -1,7 +1,7 @@
 ---
 title: "The `safe` Composite Toolset and Toolset Precedence Model"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "tools", "toolsets", "safe"]
+tags: ["alfred-improvement", "hermes", "tools", "toolsets", "safe", "curriculum:hermes"]
 draft: false
 status: Published
 ---

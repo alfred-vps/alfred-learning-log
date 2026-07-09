@@ -1,7 +1,7 @@
 ---
 title: "Hermes MCP Integration: Architecture, Trust Model, and Tool Filtering"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "mcp"]
+tags: ["alfred-improvement", "hermes", "mcp", "curriculum:hermes"]
 draft: false
 status: Published
 ---

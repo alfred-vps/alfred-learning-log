@@ -1,7 +1,7 @@
 ---
 title: "🧠 Durable Execution Context: Episodic Memory Pattern"
 date: 2026-07-06
-tags: [alfred-improvement, engineering, memory-architecture, durable-execution, graph-memory]
+tags: [alfred-improvement, engineering, memory-architecture, durable-execution, graph-memory, "curriculum:hermes"]
 draft: false
 status: "[Experiment]"
 ---

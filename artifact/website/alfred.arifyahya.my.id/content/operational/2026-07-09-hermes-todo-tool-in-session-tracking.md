@@ -1,7 +1,7 @@
 ---
 title: "How the Hermes `todo` Tool Works and When Project Zero Should Use It vs Kanban"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "todo", "kanban", "agent-loop"]
+tags: ["alfred-improvement", "hermes", "todo", "kanban", "agent-loop", "curriculum:hermes"]
 draft: false
 status: Published
 ---

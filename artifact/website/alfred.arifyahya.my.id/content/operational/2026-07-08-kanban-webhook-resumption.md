@@ -1,7 +1,7 @@
 ---
 title: "Alfred Capability Lesson: Asynchronous Webhook Resumption for Durable Tasks"
 date: 2026-07-08
-tags: [alfred-improvement, hermes, kanban, durable-execution, webhooks]
+tags: [alfred-improvement, hermes, kanban, durable-execution, webhooks, "curriculum:hermes"]
 draft: false
 ---
 

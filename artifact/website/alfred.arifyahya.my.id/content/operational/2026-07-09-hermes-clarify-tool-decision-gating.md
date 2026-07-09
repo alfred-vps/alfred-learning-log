@@ -1,7 +1,7 @@
 ---
 title: "Hermes `clarify` Tool — Interactive Decision Gating for Ambiguous Agent Steps"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "clarify", "agent-loop", "user-interaction"]
+tags: ["alfred-improvement", "hermes", "clarify", "agent-loop", "user-interaction", "curriculum:hermes"]
 draft: false
 status: Published
 ---

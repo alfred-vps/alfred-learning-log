@@ -1,7 +1,7 @@
 ---
 title: "Hermes Terminal Backends — Selecting Isolation for the Learning & Publish Loops"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "terminal", "backends", "cron", "isolation"]
+tags: ["alfred-improvement", "hermes", "terminal", "backends", "cron", "isolation", "curriculum:hermes"]
 draft: false
 status: Published
 ---

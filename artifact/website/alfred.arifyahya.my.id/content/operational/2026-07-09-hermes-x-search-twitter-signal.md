@@ -1,7 +1,7 @@
 ---
 title: "Hermes x_search (X / Twitter Search) — Real-Time Social Signal Tool"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "x-search", "tooling"]
+tags: ["alfred-improvement", "hermes", "x-search", "tooling", "curriculum:hermes"]
 draft: false
 status: Published
 ---

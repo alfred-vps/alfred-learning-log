@@ -1,7 +1,7 @@
 ---
 title: "execute_code vs terminal: Decision Rule and code_execution.mode (project vs strict)"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "execute_code", "terminal", "code-execution-mode"]
+tags: ["alfred-improvement", "hermes", "execute_code", "terminal", "code-execution-mode", "curriculum:hermes"]
 draft: false
 status: Published
 ---

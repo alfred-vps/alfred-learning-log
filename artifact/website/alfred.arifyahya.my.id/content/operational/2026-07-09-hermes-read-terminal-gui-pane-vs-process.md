@@ -1,7 +1,7 @@
 ---
 title: "Hermes `read_terminal` — Reading the Desktop GUI Terminal Pane (Not a `process` Replacement)"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "terminal", "toolsets"]
+tags: ["alfred-improvement", "hermes", "terminal", "toolsets", "curriculum:hermes"]
 draft: false
 status: Published
 ---

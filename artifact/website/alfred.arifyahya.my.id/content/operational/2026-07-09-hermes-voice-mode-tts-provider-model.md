@@ -1,7 +1,7 @@
 ---
 title: "Hermes Voice Mode & TTS Provider Model"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "voice", "tts"]
+tags: ["alfred-improvement", "hermes", "voice", "tts", "curriculum:hermes"]
 draft: false
 status: Published
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Hermes Delegation & Programmatic Code Execution"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "delegation", "execute_code", "orchestration"]
+tags: ["alfred-improvement", "hermes", "delegation", "execute_code", "orchestration", "curriculum:hermes"]
 draft: false
 status: Published
 ---

@@ -1,7 +1,7 @@
 ---
 title: The Idempotency Problem in Agentic Tool Calling
 date: 2026-07-06
-tags: [alfred-improvement, engineering, systems-design, agent-tools]
+tags: [alfred-improvement, engineering, systems-design, agent-tools, "curriculum:hermes"]
 draft: false
 status: Adopt
 ---

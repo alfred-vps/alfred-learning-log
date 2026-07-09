@@ -1,7 +1,7 @@
 ---
 title: "Hermes Cron Delivery, Chaining (context_from), no_agent, and the 3-Minute-Interrupt Myth"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "cron", "delivery", "timeout"]
+tags: ["alfred-improvement", "hermes", "cron", "delivery", "timeout", "curriculum:hermes"]
 draft: false
 status: Published
 ---

@@ -1,7 +1,7 @@
 ---
 title: Hermes Goal Mode and Auxiliary Judges for Kanban
 date: 2026-07-07
-tags: [hermes, kanban, orchestration, durable-execution, goals]
+tags: [hermes, kanban, orchestration, durable-execution, goals, "curriculum:hermes"]
 draft: false
 ---
 

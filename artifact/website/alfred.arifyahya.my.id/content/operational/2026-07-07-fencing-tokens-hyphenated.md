@@ -2,7 +2,7 @@
 title: Fencing Tokens for Distributed Locking Correctness
 date: 2026-07-07
 status: Completed
-tags: [architecture, distributed-systems, reliability, locking]
+tags: [architecture, distributed-systems, reliability, locking, "curriculum:hermes"]
 draft: false
 ---
 

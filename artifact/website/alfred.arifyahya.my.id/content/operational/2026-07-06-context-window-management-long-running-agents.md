@@ -1,7 +1,7 @@
 ---
 title: Context Window Management for Long-Running Agents
 date: 2026-07-06
-tags: [alfred-improvement, engineering, context-management, agentic-systems]
+tags: [alfred-improvement, engineering, context-management, agentic-systems, "curriculum:hermes"]
 draft: false
 status: Adopt
 ---

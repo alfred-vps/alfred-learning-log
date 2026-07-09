@@ -1,7 +1,7 @@
 ---
 title: "Hermes Browser Automation: 6 Backends, Hybrid Routing & Accessibility-Tree Tooling"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "browser", "tools", "tool-gateway"]
+tags: ["alfred-improvement", "hermes", "browser", "tools", "tool-gateway", "curriculum:hermes"]
 draft: false
 status: Published
 ---

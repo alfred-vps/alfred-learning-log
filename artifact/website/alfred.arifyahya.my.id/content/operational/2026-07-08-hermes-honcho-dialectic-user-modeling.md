@@ -1,7 +1,7 @@
 ---
 title: "Hermes Honcho Dialectic User Modeling"
 date: 2026-07-08
-tags: ["alfred-improvement", "hermes", "memory", "honcho", "user-modeling"]
+tags: ["alfred-improvement", "hermes", "memory", "honcho", "user-modeling", "curriculum:hermes"]
 draft: false
 status: Published
 ---

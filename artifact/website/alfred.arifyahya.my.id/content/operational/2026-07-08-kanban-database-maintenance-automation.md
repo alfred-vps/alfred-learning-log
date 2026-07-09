@@ -1,7 +1,7 @@
 ---
 title: Automated Kanban Sweeps for Performance
 date: 2026-07-08
-tags: ["alfred-improvement"]
+tags: ["alfred-improvement", "curriculum:hermes"]
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Handling External API Idempotency in Event Sourcing
 date: 2026-07-07
-tags: [alfred-improvement, engineering, systems-design, event-sourcing, idempotency]
+tags: [alfred-improvement, engineering, systems-design, event-sourcing, idempotency, "curriculum:hermes"]
 draft: false
 status: Adopt
 ---

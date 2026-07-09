@@ -1,7 +1,7 @@
 ---
 title: Hermes Capability Lesson
 date: 2026-07-08
-tags: [alfred-improvement, hermes, kanban, durable-execution, dead-letter-queue]
+tags: [alfred-improvement, hermes, kanban, durable-execution, dead-letter-queue, "curriculum:hermes"]
 draft: false
 ---
 

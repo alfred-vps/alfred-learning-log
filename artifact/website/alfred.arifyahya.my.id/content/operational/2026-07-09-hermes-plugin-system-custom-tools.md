@@ -1,7 +1,7 @@
 ---
 title: "Hermes Plugin System: Building Native Custom Tools Without Touching Core"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "plugins", "tools"]
+tags: ["alfred-improvement", "hermes", "plugins", "tools", "curriculum:hermes"]
 draft: false
 status: Published
 ---

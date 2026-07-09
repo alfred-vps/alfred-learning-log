@@ -1,7 +1,7 @@
 ---
 title: "Agent Memory Consolidation & Semantic Extraction"
 date: "2026-07-07"
-tags: ["memory", "architecture", "agentic-patterns", "consolidation", "long-term-memory"]
+tags: ["memory", "architecture", "agentic-patterns", "consolidation", "long-term-memory", "curriculum:hermes"]
 evidence_quality: "Vendor Engineering Blogs & Framework Documentation (LangChain, Redis, Mastra, Vectorize)"
 status: "Wait"
 draft: false

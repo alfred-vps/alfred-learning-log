@@ -1,7 +1,7 @@
 ---
 title: Hermes Capability Lesson
 date: 2026-07-08
-tags: [alfred-improvement, hermes, kanban, durable-execution, self-healing]
+tags: [alfred-improvement, hermes, kanban, durable-execution, self-healing, "curriculum:hermes"]
 draft: false
 ---
 

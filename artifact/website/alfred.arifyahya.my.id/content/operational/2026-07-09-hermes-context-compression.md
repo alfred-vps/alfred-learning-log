@@ -1,7 +1,7 @@
 ---
 title: "Hermes Context Compression & Long-Running Agent Safety"
 date: 2026-07-09
-tags: ["alfred-improvement", "hermes", "context-compression", "durable-execution"]
+tags: ["alfred-improvement", "hermes", "context-compression", "durable-execution", "curriculum:hermes"]
 draft: false
 status: Published
 ---
