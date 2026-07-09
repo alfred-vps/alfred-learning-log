@@ -7,6 +7,7 @@ tags:
   - kanban
   - goal-mode
   - validation
+  - "curriculum:legacy"
 draft: false
 ---
 

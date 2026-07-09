@@ -7,6 +7,7 @@ tags:
   - kanban
   - durable-execution
   - federation
+  - "curriculum:legacy"
 draft: false
 ---
 

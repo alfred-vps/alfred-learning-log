@@ -8,6 +8,7 @@ tags:
   - secrets-management
   - kanban
   - architecture
+  - "curriculum:legacy"
 draft: false
 ---
 

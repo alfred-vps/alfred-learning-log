@@ -7,6 +7,7 @@ tags:
   - opentelemetry
   - distributed-tracing
   - multi-agent
+  - "curriculum:legacy"
 draft: false
 ---
 

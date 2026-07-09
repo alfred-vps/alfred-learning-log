@@ -7,6 +7,7 @@ tags:
   - durable-execution
   - state-management
   - schema-migration
+  - "curriculum:legacy"
 draft: false
 ---
 

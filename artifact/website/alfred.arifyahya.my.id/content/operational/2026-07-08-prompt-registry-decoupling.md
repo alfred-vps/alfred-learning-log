@@ -6,6 +6,7 @@ tags:
   - architecture
   - llmops
   - prompt-management
+  - "curriculum:legacy"
 draft: false
 ---
 

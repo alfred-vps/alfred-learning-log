@@ -7,6 +7,7 @@ tags:
   - multi-agent
   - durable-execution
   - kanban
+  - "curriculum:legacy"
 draft: false
 ---
 

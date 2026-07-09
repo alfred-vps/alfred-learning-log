@@ -7,6 +7,7 @@ tags:
   - distributed-systems
   - nfs
   - locking
+  - "curriculum:legacy"
 draft: false
 ---
 

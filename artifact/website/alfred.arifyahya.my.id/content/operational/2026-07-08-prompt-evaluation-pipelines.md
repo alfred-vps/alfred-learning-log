@@ -7,6 +7,7 @@ tags:
   - prompts
   - evaluation
   - mlops
+  - "curriculum:legacy"
 draft: false
 ---
 
